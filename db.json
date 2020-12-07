@@ -1,0 +1,282 @@
+{
+  "main_data": [
+    {
+      "name": "avexis_veeva_emea_crm_landing",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 5.2,
+              "batch_start_time": "11:12:21",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 7.68,
+              "batch_start_time": "11:46:48",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 4.68,
+              "batch_start_time": "12:01:38",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 7.32,
+              "batch_start_time": "13:39:00",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 6.73,
+              "batch_start_time": "15:18:34",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 31.61
+        }
+      ],
+      "ds_id": 416,
+      "average_duration": 6.32
+    },
+    {
+      "name": "axle_publish",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 6.35,
+              "batch_start_time": "11:35:06",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 6.35
+        }
+      ],
+      "ds_id": 424,
+      "average_duration": 6.35
+    },
+    {
+      "name": "demo_jdbc_sample",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "running",
+              "duration": null,
+              "batch_start_time": "10:16:21",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 0
+        }
+      ],
+      "ds_id": 470,
+      "average_duration": 0.0
+    },
+    {
+      "name": "eqarp_aqwaa_evico_jarvis",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 5.2,
+              "batch_start_time": "13:55:56",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 5.2
+        }
+      ],
+      "ds_id": 249,
+      "average_duration": 5.2
+    },
+    {
+      "name": "nbs_landing",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 2.23,
+              "batch_start_time": "00:04:43",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 2.23
+        }
+      ],
+      "ds_id": 413,
+      "average_duration": 2.23
+    },
+    {
+      "name": "nto_excel_sources_landing",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "failed",
+              "duration": 21.73,
+              "batch_start_time": "11:10:24",
+              "restarted": 17.8
+            }
+          ],
+          "total_duration": 21.73
+        }
+      ],
+      "ds_id": 462,
+      "average_duration": 21.73
+    },
+    {
+      "name": "pdl_sap_p79_ibi_landing",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 229.37,
+              "batch_start_time": "15:04:06",
+              "restarted": 227.2
+            },
+            {
+              "batch_status": "success",
+              "duration": 27.87,
+              "batch_start_time": "15:46:17",
+              "restarted": 25.3
+            },
+            {
+              "batch_status": "failed",
+              "duration": 9.92,
+              "batch_start_time": "16:11:23",
+              "restarted": 7.37
+            }
+          ],
+          "total_duration": 267.16
+        }
+      ],
+      "ds_id": 456,
+      "average_duration": 89.05
+    },
+    {
+      "name": "sap_p79_ibi_landing",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 2.95,
+              "batch_start_time": "07:14:39",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 1.95,
+              "batch_start_time": "11:25:38",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 3.67,
+              "batch_start_time": "12:20:27",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 4.45,
+              "batch_start_time": "13:38:29",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 13.02
+        }
+      ],
+      "ds_id": 165,
+      "average_duration": 3.25
+    },
+    {
+      "name": "sap_p79_ibi_landing_merge",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "failed",
+              "duration": 447.02,
+              "batch_start_time": "13:46:49",
+              "restarted": 440.33
+            }
+          ],
+          "total_duration": 447.02
+        }
+      ],
+      "ds_id": 465,
+      "average_duration": 447.02
+    },
+    {
+      "name": "servicenow",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 9.53,
+              "batch_start_time": "05:33:58",
+              "restarted": 0.0
+            },
+            {
+              "batch_status": "success",
+              "duration": 1.77,
+              "batch_start_time": "05:51:24",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 11.3
+        }
+      ],
+      "ds_id": 293,
+      "average_duration": 5.65
+    },
+    {
+      "name": "student_poc_landing",
+      "dates": [
+        {
+          "date": "2020-12-07",
+          "batches": [
+            {
+              "batch_status": "success",
+              "duration": 7.47,
+              "batch_start_time": "06:46:09",
+              "restarted": 7.47
+            },
+            {
+              "batch_status": "running",
+              "duration": null,
+              "batch_start_time": "09:30:11",
+              "restarted": 0.0
+            }
+          ],
+          "total_duration": 7.47
+        }
+      ],
+      "ds_id": 339,
+      "average_duration": 3.73
+    }
+  ],
+  "start_date": "2020-12-07",
+  "end_date": "2020-12-07",
+  "total_days": 0
+}
