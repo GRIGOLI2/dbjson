@@ -1,0 +1,18 @@
+
+      const [isSameDate, setIsSameDate] = useState(false);
+​[10:09 AM] Jose, Jojo (Ext)
+     const dateRangeChangeHandler = (dateRangePicker) => {​​​​​​​
+    setDateRange([
+      convertDateToTimeStamp(dateRangePicker[0], dateFormats.BE),
+      convertDateToTimeStamp(dateRangePicker[1], dateFormats.BE),
+      dateRangePicker[0],
+      dateRangePicker[1]
+    ]);
+    if(dateRangePicker[0].toLocaleDateString()===dateRangePicker[1].toLocaleDateString())
+    {​​​​​​​
+      setIsSameDate(true);
+    }​​​​​​​ else {​​​​​​​
+      setIsSameDate(false);
+    }​​​​​​​
+//TODO
+  }​​​​​​​;
